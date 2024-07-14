@@ -1,0 +1,15 @@
+D:\rabbitmq-demo-master\rabbitmq-demo-master\RabbitMQ.Producer\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.csprojAssemblyReference.cache
+D:\rabbitmq-demo-master\rabbitmq-demo-master\RabbitMQ.Producer\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.AssemblyInfoInputs.cache
+D:\rabbitmq-demo-master\rabbitmq-demo-master\RabbitMQ.Producer\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.AssemblyInfo.cs
+D:\rabbitmq-demo-master\rabbitmq-demo-master\RabbitMQ.Producer\bin\Debug\netcoreapp3.1\RabbitMQ.Producer.exe
+D:\rabbitmq-demo-master\rabbitmq-demo-master\RabbitMQ.Producer\bin\Debug\netcoreapp3.1\RabbitMQ.Producer.deps.json
+D:\rabbitmq-demo-master\rabbitmq-demo-master\RabbitMQ.Producer\bin\Debug\netcoreapp3.1\RabbitMQ.Producer.runtimeconfig.json
+D:\rabbitmq-demo-master\rabbitmq-demo-master\RabbitMQ.Producer\bin\Debug\netcoreapp3.1\RabbitMQ.Producer.runtimeconfig.dev.json
+D:\rabbitmq-demo-master\rabbitmq-demo-master\RabbitMQ.Producer\bin\Debug\netcoreapp3.1\RabbitMQ.Producer.dll
+D:\rabbitmq-demo-master\rabbitmq-demo-master\RabbitMQ.Producer\bin\Debug\netcoreapp3.1\RabbitMQ.Producer.pdb
+D:\rabbitmq-demo-master\rabbitmq-demo-master\RabbitMQ.Producer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\rabbitmq-demo-master\rabbitmq-demo-master\RabbitMQ.Producer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\rabbitmq-demo-master\rabbitmq-demo-master\RabbitMQ.Producer\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\rabbitmq-demo-master\rabbitmq-demo-master\RabbitMQ.Producer\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.csproj.CopyComplete
+D:\rabbitmq-demo-master\rabbitmq-demo-master\RabbitMQ.Producer\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.dll
+D:\rabbitmq-demo-master\rabbitmq-demo-master\RabbitMQ.Producer\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.pdb
